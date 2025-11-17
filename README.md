@@ -50,4 +50,10 @@ Response:
                 "format": "PNG"
             }
 
+<img width="581" height="342" alt="Image_Service drawio" src="https://github.com/user-attachments/assets/0f5ba136-e9ac-4c5c-9bde-b6ac382a9aed" />
+
+
+
+
+
 
